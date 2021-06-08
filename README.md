@@ -1,2 +1,2 @@
 # venom
-Glo - academy project
+Glo academy project
